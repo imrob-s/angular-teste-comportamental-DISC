@@ -1,0 +1,247 @@
+{
+  "title": "Quer descobrir a sua personalidade profissional?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Eu prefiro trabalhar de forma colaborativa em equipe ou de forma independente?",
+      "options": [
+        { "id": 1, "name": "Trabalhar em equipe", "alias": "A" },
+        { "id": 2, "name": "Trabalhar de forma independente", "alias": "B" },
+        { "id": 3, "name": "Depende da situação", "alias": "C" },
+        { "id": 4, "name": "Não sei responder", "alias": "D" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lida com mudanças inesperadas nos planos?",
+      "options": [
+        { "id": 5, "name": "Adapto-me facilmente", "alias": "A" },
+        { "id": 6, "name": "Gosto de ter um plano bem definido", "alias": "B" },
+        {
+          "id": 7,
+          "name": "Adapto-me, mas com alguma resistência",
+          "alias": "C"
+        },
+        { "id": 8, "name": "Não gosto de mudanças", "alias": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Ao tomar decisões importantes, eu geralmente...",
+      "options": [
+        { "id": 9, "name": "Decido rapidamente", "alias": "A" },
+        {
+          "id": 10,
+          "name": "Analiso cuidadosamente todas as opções",
+          "alias": "B"
+        },
+        {
+          "id": 11,
+          "name": "Peço a opinião dos outros antes de decidir",
+          "alias": "C"
+        },
+        {
+          "id": 12,
+          "name": "Procrastino e tenho dificuldade em decidir",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Eu me sinto mais energizado quando...",
+      "options": [
+        {
+          "id": 13,
+          "name": "Estou em um ambiente social e interagindo com pessoas",
+          "alias": "A"
+        },
+        {
+          "id": 14,
+          "name": "Estou focado e concentrado em uma tarefa",
+          "alias": "B"
+        },
+        {
+          "id": 15,
+          "name": "Estou trabalhando em equipe para alcançar um objetivo comum",
+          "alias": "C"
+        },
+        {
+          "id": 16,
+          "name": "Estou sozinho, em silêncio e refletindo",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quando confrontado com um problema, minha abordagem é geralmente...",
+      "options": [
+        {
+          "id": 17,
+          "name": "Enfrentar imediatamente e buscar uma solução prática",
+          "alias": "A"
+        },
+        { "id": 18, "name": "Analisar a situação antes de agir", "alias": "B" },
+        {
+          "id": 19,
+          "name": "Discutir o problema com outros para obter diferentes perspectivas",
+          "alias": "C"
+        },
+        {
+          "id": 20,
+          "name": "Evitar conflitos e esperar que o problema se resolva sozinho",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quando estou sob pressão, geralmente...",
+      "options": [
+        {
+          "id": 21,
+          "name": "Mantenho a calma e continuo focado",
+          "alias": "A"
+        },
+        {
+          "id": 22,
+          "name": "Sinto-me estressado, mas procuro encontrar uma solução",
+          "alias": "B"
+        },
+        {
+          "id": 23,
+          "name": "Peço ajuda aos outros para lidar com a pressão",
+          "alias": "C"
+        },
+        {
+          "id": 24,
+          "name": "Fico ansioso e tenho dificuldade em lidar com a situação",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Eu prefiro trabalhar em um ambiente...",
+      "options": [
+        { "id": 25, "name": "Energético e dinâmico", "alias": "A" },
+        { "id": 26, "name": "Organizado e estruturado", "alias": "B" },
+        {
+          "id": 27,
+          "name": "Colaborativo e aberto à comunicação",
+          "alias": "C"
+        },
+        { "id": 28, "name": "Silencioso e tranquilo", "alias": "D" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Eu valorizo mais...",
+      "options": [
+        {
+          "id": 29,
+          "name": "Resultados práticos e conquistas tangíveis",
+          "alias": "A"
+        },
+        {
+          "id": 30,
+          "name": "Planejamento e organização cuidadosa",
+          "alias": "B"
+        },
+        {
+          "id": 31,
+          "name": "Relacionamentos interpessoais e trabalho em equipe",
+          "alias": "C"
+        },
+        { "id": 32, "name": "Reflexão pessoal e autenticidade", "alias": "D" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Eu me sinto mais realizado quando...",
+      "options": [
+        {
+          "id": 33,
+          "name": "Alcanço meus objetivos pessoais e profissionais",
+          "alias": "A"
+        },
+        {
+          "id": 34,
+          "name": "Concluo projetos de maneira bem planejada",
+          "alias": "B"
+        },
+        {
+          "id": 35,
+          "name": "Colaboro efetivamente com os outros",
+          "alias": "C"
+        },
+        {
+          "id": 36,
+          "name": "Aprendo algo novo e cresço pessoalmente",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Minha abordagem natural em uma conversa é...",
+      "options": [
+        {
+          "id": 37,
+          "name": "Focar em tarefas e soluções práticas",
+          "alias": "A"
+        },
+        {
+          "id": 38,
+          "name": "Explorar diferentes perspectivas e ideias",
+          "alias": "B"
+        },
+        {
+          "id": 39,
+          "name": "Manter um diálogo aberto e colaborativo",
+          "alias": "C"
+        },
+        {
+          "id": 40,
+          "name": "Expressar minhas opiniões e sentimentos pessoais",
+          "alias": "D"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": [
+      {
+        "id": 1,
+        "title": "Perfil Dominância",
+        "description_1": "Assertivo, orientado para resultados, decisivo, confiante.",
+        "description_2": "Direto, focado em ações, pode ser percebido como assertivo."
+      }
+    ],
+    "B": [
+      {
+        "id": 2,
+        "title": "Perfil Influência",
+        "description_1": "Sociável, entusiástico, otimista, persuasivo.",
+        "description_2": "Expressivo, envolvente, gosta de interação social."
+      }
+    ],
+    "C": [
+      {
+        "id": 3,
+        "title": "Perfil Estabilidade",
+        "description_1": "Calmo, paciente, leal, diplomático.",
+        "description_2": "Tranquilo, centrado, valoriza relações de longo prazo."
+      }
+    ],
+    "D": [
+      {
+        "id": 4,
+        "title": "Perfil Conformidade",
+        "description_1": "Preciso, organizado, analítico, cauteloso.",
+        "description_2": "Detalhado, busca precisão, pode ser percebido como mais reservado."
+      }
+    ]
+  }
+}
